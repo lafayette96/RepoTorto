@@ -1,0 +1,2 @@
+# RepoTorto
+Zadanie INPG
